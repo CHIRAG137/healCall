@@ -1,8 +1,8 @@
-import Login from "./pages/Login";
+import Home from "./pages/Home";
 import "./index.scss"
 function App() {
   return (
-    <Login/>
+    <Home/>
   );
 }
 
